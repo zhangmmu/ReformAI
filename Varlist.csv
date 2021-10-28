@@ -1,0 +1,171 @@
+﻿FieldName,Description
+STARTDATE,Start Date
+ENDDATE,End Date
+PROGRESS,Progress
+DURATION,Duration (in seconds)
+FINISHED,Finished
+RECORDEDDATE,Recorded Date
+DISTRIBUTIONCHANNEL,Distribution Channel
+USERLANGUAGE,User Language
+ARM,Type of Treatment
+CONSENT,Consent Question
+COMPREHENSION1_ARM1,"According to the article, why did Sean McGuire lose his job?"
+COMPREHENSION2_ARM1,"According to the article, why did Sean lose his health insurance?"
+COMPREHENSION2_ARM2,"The following questions are about the article you just read.  According to the article, why did Sean McGuire lose his job?"
+COMPREHENSION2_ARM2,Why did Sean lose his health insurance?
+HR1,Health Care Reform Attitudes
+HR1_10SCALE,"On a scale of 1-10 where 1 means you agree completely with statement A and a 10 means you agree completely with statement B, which of the following statements do you agree with more:
+A.   There should be a government insurance plan that would cover all medical and hospital expenses for everyone
+B.    Medical expenses should be paid by individuals through private insurance plans like Blue Cross or other company paid plans"
+HR2_1,How positively/negatively do you view each of the following: - The healthcare industry generally
+HR2_2,How positively/negatively do you view each of the following: - Health insurance companies
+HR2_3,How positively/negatively do you view each of the following: - Doctors/health care providers
+HR2_4,How positively/negatively do you view each of the following: - Medicare
+HR2_5,How positively/negatively do you view each of the following: - Medicaid
+HR3,Health Care Reform Attitudes
+HR4,Health Care Reform Attitudes
+HR5,How satisfied are you with the affordability of your healthcare coverage?
+HR6,"Now thinking about healthcare in the country as a whole, overall, what are your impressions of the affordability of healthcare in this country?"
+HR7_1,"How likely would you be to support a proposal to reform the US health system that does the following: - Eliminates private health insurance but allows people to choose their doctors, hospitals and other medical providers"
+HR7_2,How likely would you be to support a proposal to reform the US health system that does the following: - Requires many businesses and some individuals to pay more in taxes but eliminates health insurance premiums and deductibles
+HR7_3,How likely would you be to support a proposal to reform the US health system that does the following: - Increase the taxes that you personally pay but decreases your overall costs for healthcare.
+HR7_4,How likely would you be to support a proposal to reform the US health system that does the following: - Provides a basic tax financed health plan to everyone but allows people to purchase supplementary private health insurance.
+HR8,"As of today, do you favor or oppose a national health plan or â€œMedicare-for-Allâ€ plan in which all Americans would get their health insurance from a single government plan?"
+HR10,[If oppose] What is the main reason you oppose such a plan?
+HR11,"Of the following approaches to reforming health care in the US, which do you most support? - Selected Choice"
+HR11_6_TEXT,"Of the following approaches to reforming health care in the US, which do you most support? - Something else, describe below - Text"
+HR12_1,Do you have a mostly positive or mostly negative reaction to the following terms: - Universal Health Coverage
+HR12_2,Do you have a mostly positive or mostly negative reaction to the following terms: - Medicare for All
+HR12_3,Do you have a mostly positive or mostly negative reaction to the following terms: - National health plan
+HR12_4,Do you have a mostly positive or mostly negative reaction to the following terms: - Obamacare
+HR12_5,Do you have a mostly positive or mostly negative reaction to the following terms: - Medicare for All who want it
+HR13,Have you or anyone close to you lost their health insurance in the last 6 months due to being laid off from work or for other reasons?
+HR14,"Which of the following best represents your current primary source of health insurance coverage, if any? - Selected Choice"
+HR14_10_TEXT,"Which of the following best represents your current primary source of health insurance coverage, if any? - Other, specify - Text"
+COVID_HR1,"Currently, insurance companies and the government have agreed to cover the cost of Coronavirus testing, but treatment for complications from the Coronavirus may not be covered. As you may have heard, the recently passed $2.2 trillion dollar stimulus bill did not include a provision to cover out-of-pocket costs of health care related to treatment for Coronavirus.
+For people without insurance, the costs for a hospital stay for complications stemming from Coronavirus without health insurance could cost as much as $20,000. Even for people with insurance, treatment could add up to $1,300 in out-of-pocket costs.
+In your view, to what extent should people with Coronavirus have to pay out of pocket for their Coronavirus treatment if their insurance does not cover it or if they do not have insurance?"
+COVID_HR2,Which of the following best represents your attitude towards how treatment for Coronavirus that is not covered by health insurance should be paid for: - Selected Choice
+COVID_HR2_11_TEXT,"Which of the following best represents your attitude towards how treatment for Coronavirus that is not covered by health insurance should be paid for: - Something else, specify - Text"
+COVID_HR3,Has Coronavirus made you think more about whether the US should move towards a â€œMedicare-for-Allâ€ plan in which all Americans would get their health insurance from a single government plan?
+STIMULUS1,How has your work changed since the start of the Coronavirus crisis? [check all that apply]
+STIMULUS2,Has anyone close to you or in your immediate family been laid off or furloughed because of the Coronavirus crisis?
+STIMULUS3,What is your opinion on the adequacy of the stimulus package to address the economic needs of the American public?
+STIMULUS4,What is your opinion on the adequacy of the stimulus package to keep the economy functioning?
+STIMULUS5,"Have you received any personal benefit from the stimulus bill, for instance in the form of a check from the government or small business loan? [check all that apply] - Selected Choice"
+STIMULUS5_8_TEXT,"Have you received any personal benefit from the stimulus bill, for instance in the form of a check from the government or small business loan? [check all that apply] - Other, specify - Text"
+STIMULUS6,"When it comes to responding to the economic issues presented by the Coronavirus, which of the following would you most want to see the government do: - Selected Choice"
+STIMULUS6_7_TEXT,"When it comes to responding to the economic issues presented by the Coronavirus, which of the following would you most want to see the government do: - Other, specify - Text"
+POLICY1,How much would you say that social distancing in response to the Coronavirus has affected you from an economic standpoint?
+POLICY2,"Regardless of the extent to which your personal/household finances have been affected so far, if the social distancing measures currently in place in your area are maintained through June 1st, how concerned are you that you will be worse-off economically at that date than you are now?"
+POLICY3,Which of the following best describes your own belief about the seriousness of Coronavirus as a threat to the nationâ€™s health and the need for social distancing measures?
+POLICY4,Which of the following statements do you agree with more:
+POLICY5,"When it comes to responding to the Coronavirus, which strategies to reduce the spread of the virus do you think are the most important to continue until AT LEAST June 15th (or until a community meets CDC guidelines about when it is safe to re-open)?  [select all that apply] - Selected Choice"
+POLICY5_13_TEXT,"When it comes to responding to the Coronavirus, which strategies to reduce the spread of the virus do you think are the most important to continue until AT LEAST June 15th (or until a community meets CDC guidelines about when it is safe to re-open)?  [select all that apply] - Other, specify - Text"
+POLICY6,"When it comes to responding to the novel Coronavirus, which strategies to reduce the spread of the virus do you think are the most important to continue PAST June 15th (or once a community has met CDC guidelines about when it is safe to re-open)?  [select all that apply] - Selected Choice"
+POLICY6_10_TEXT,"When it comes to responding to the novel Coronavirus, which strategies to reduce the spread of the virus do you think are the most important to continue PAST June 15th (or once a community has met CDC guidelines about when it is safe to re-open)?  [select all that apply] - Other, specify - Text"
+PERSONAL1,Which of the following social distancing measures have you personally been engaging in [check all that apply]:
+PERSONAL2,To what extent are you socially distancing?
+PERSONAL3,"Apart from essential tasks like going to grocery stores, hospitals, or your workplace, what are the chances of you personally going to a crowded place (e.g., beach, on an airplane, etc.) or party of more than 10 people, in the next two weeks apart from any essential work-related duties you have to complete?"
+PERSONAL4,"Should people be required to wear facial masks when going out in public places where social distancing is not feasible (i.e., on public transportation, in grocery stores)?"
+PERSONAL5,Which of the following are you doing to personally protect yourself from Coronavirus? [check all that apply]:
+PERSONAL6,Please select your top 3 concerns about Coronavirus as of today (Select 3): - Selected Choice
+PERSONAL6_13_TEXT,"Please select your top 3 concerns about Coronavirus as of today (Select 3): - Other, specify - Text"
+PERSONAL7,Have you experienced any difficulties due to the coronavirus crisis? (check all that apply): - Selected Choice
+PERSONAL7_11_TEXT,"Have you experienced any difficulties due to the coronavirus crisis? (check all that apply): - Other, please specify - Text"
+WORRY_1,How worried are you about each of the following: - Degree of Worry - Contracting the Coronavirus?
+WORRY_2,How worried are you about each of the following: - Degree of Worry - Experiencing a serious complication or death from Coronavirus if you were to contract it?
+WORRY_3,"How worried are you about each of the following: - Degree of Worry - Someone close to you (family, close friend, loved one) experiencing a serious complication or death from the Coronavirus if they were to contract it?"
+WORRY_4,How worried are you about each of the following: - Degree of Worry - The negative effects on the economy of social distancing measures on the economy
+WORRY_5,How worried are you about each of the following: - Degree of Worry - The negative effects of social distancing on my personal finances
+WORRY_6,How worried are you about each of the following: - Degree of Worry - Your local health system capacity being overwhelmed if current social distancing measures are relaxed before we have the ability to closely monitor Coronavirus?
+WORRY_7,How worried are you about each of the following: - Degree of Worry - Schools closing or remaining closed
+WORRY_8,How worried are you about each of the following: - Degree of Worry - Shortages of necessary items
+MEDIA1,How much media coverage of Coronavirus have you been consuming in the past week?
+MEDIA2,When did you start paying attention to Coronavirus?
+MEDIA3,What sources do you rely on to get information on Coronavirus? (Select top 3): - Selected Choice
+MEDIA3_11_TEXT,"What sources do you rely on to get information on Coronavirus? (Select top 3): - Other, specify - Text"
+MEDIA4,What sources do you trust to provide accurate Coronavirus information? [Select top 3]: - Selected Choice
+MEDIA4_11_TEXT,"What sources do you trust to provide accurate Coronavirus information? [Select top 3]: - Other, specify - Text"
+MEDIA5,"Of the following TV news media outlets, which would you say is your primary source of news information? - Selected Choice"
+MEDIA5_8_TEXT,"Of the following TV news media outlets, which would you say is your primary source of news information? - Other, specify in the box below - Text"
+MEDIA5_1,Which show on Fox do you watch most regularly: - Selected Choice
+MEDIA5_1_3_TEXT,"Which show on Fox do you watch most regularly: - Other, - Text"
+MEDIA6_1,"How much confidence, if any, do you have that each of the following is currently doing what is ri... - Degree of Confidence - National Government"
+MEDIA6_2,"How much confidence, if any, do you have that each of the following is currently doing what is ri... - Degree of Confidence - State Government"
+MEDIA6_3,"How much confidence, if any, do you have that each of the following is currently doing what is ri... - Degree of Confidence - Local Government"
+MEDIA6_4,"How much confidence, if any, do you have that each of the following is currently doing what is ri... - Degree of Confidence - Medical Scientists"
+MEDIA6_5,"How much confidence, if any, do you have that each of the following is currently doing what is ri... - Degree of Confidence - Journalists"
+MEDIA6_6,"How much confidence, if any, do you have that each of the following is currently doing what is ri... - Degree of Confidence - Public school principals for K-12"
+MEDIA6_7,"How much confidence, if any, do you have that each of the following is currently doing what is ri... - Degree of Confidence - Business leaders"
+MEDIA7,"Putting aside Coronavirus, how is your physical health in general?"
+MEDIA8,Has a doctor ever told you that you have any of the following health conditions [check all that apply]? - Selected Choice
+MEDIA8_9_TEXT,Has a doctor ever told you that you have any of the following health conditions [check all that apply]? - Other - Text
+MEDIA9,"Did you receive the flu vaccine this year (i.e., in the Fall)?"
+MEDIA10,To what extent do you agree or disagree with the following statement:  I have specific concerns about vaccines and their safety that would prevent me from vaccinating myself or my children according to the recommended vaccination schedule.
+MEDIA11,Which of the following best describes your smoking status?
+MEDIA12,"Do you now use e-cigarettes or other electronic â€œvapingâ€ products every day, some days, or not at all?"
+MEDIA13,"In the past 4 weeks, have you been in close contact with a person who has tested positive for Coronavirus?"
+MEDIA14,"In the past 4 weeks, have you been ill with a cold or flu-like illness?"
+MEDIA15,Have you been tested for Coronavirus?
+MEDIA16,In the last two weeks have you (or other adults in your household) sought food assistance from any of the following [check all that apply]:
+MEDIA17,"In the last 6 weeks, did you (other adults in your household) ever cut the size of your meals or skip meals because there wasn't enough money for food?"
+MH1,Little interest or pleasure in doing things
+MH2,"Feeling down, depressed or hopeless"
+CHILDCARE1,Do you have school-age kids?
+CHILDCARE1_1,"If yes, what are their ages [check all that apply]:"
+CHILDCARE1_2,"In response to social distancing measures put in place, have schools in your area closed?"
+CHILDCARE1_3,Which of the following best describes what you are currently doing for childcare? - Selected Choice
+CHILDCARE1_3_6_TEXT,"Which of the following best describes what you are currently doing for childcare? - Kids are being watched by another caretaker, specify - Text"
+CHILDCARE1_3_7_TEXT,"Which of the following best describes what you are currently doing for childcare? - Other, - Text"
+CHILDCARE2,Is free â€œgrab-and-goâ€ breakfast and lunch for children available  in your school district?
+CHILDCARE3,Do you have an adult child in college?
+CHILDCARE3_1,"If yes, did your adult childâ€™s university close the campus?"
+CHILDCARE3_2,"If yes, is your college-age child/children living with you now?"
+ELDERLYCARE1,"Besides yourself, is there anyone living with you (or that you live with) who is 65 years old or older?"
+ELDERLYCARE1_1,"If yes, how many:"
+IDEOLOGY1,"In politics today, do you consider yourself a Republican, Democrat, or Independent? - Selected Choice"
+IDEOLOGY1_6_TEXT,"In politics today, do you consider yourself a Republican, Democrat, or Independent? - Other, describe - Text"
+IDEOLOGY2,"If Independent, which other party might you feel most close to? [Even if you are not registered as an Independent, select which party you might feel closest to]: - Selected Choice"
+IDEOLOGY2_9_TEXT,"If Independent, which other party might you feel most close to? [Even if you are not registered as an Independent, select which party you might feel closest to]: - Other, specify - Text"
+IDEOLOGY3,Are you planning to vote [have you already voted] in the Democratic Primary?
+IDEOLOGY4,"Whether or not you were able to vote, who are/were you planning to vote for in the Democratic Primary? [if you did vote, select or write-in who you voted for] - Selected Choice"
+IDEOLOGY4_5_TEXT,"Whether or not you were able to vote, who are/were you planning to vote for in the Democratic Primary? [if you did vote, select or write-in who you voted for] - Someone else, write-in below - Text"
+IDEOLOGY5,"If you had to describe your ideology along a Left-Right political spectrum, which of the following would come closest to how you would describe yourself?"
+IDEOLOGY6,How political do you consider yourself to be?
+IDEOLOGY7,Who did you vote for in the 2016 Presidential Election? - Selected Choice
+IDEOLOGY7_7_TEXT,"Who did you vote for in the 2016 Presidential Election? - Someone else, specify in the box below - Text"
+IDEOLOGY8,Who do you plan to vote in the 2020 Presidential election? - Selected Choice
+IDEOLOGY8_10_TEXT,"Who do you plan to vote in the 2020 Presidential election? - Write in other candidate, specify who in the box - Text"
+CULTURE1_1,People in our society often disagree about how far to let individuals go in making decisions for... - Click to write Column 1 - The government interferes far too much in our everyday lives
+CULTURE1_2,People in our society often disagree about how far to let individuals go in making decisions for... - Click to write Column 1 - Sometimes government needs to make laws that protect people from hurting themselves
+CULTURE1_3,People in our society often disagree about how far to let individuals go in making decisions for... - Click to write Column 1 - Itâ€™s not the governmentâ€™s business to try to protect people from hurting themselves.
+CULTURE1_4,People in our society often disagree about how far to let individuals go in making decisions for... - Click to write Column 1 - The government should stop telling people how to live their lives.
+CULTURE1_5,People in our society often disagree about how far to let individuals go in making decisions for... - Click to write Column 1 - The government should do more to advance societyâ€™s goals even if that means limiting the freedom of choices of individuals.
+CULTURE1_6,People in our society often disagree about how far to let individuals go in making decisions for... - Click to write Column 1 - Government should put limits on the choices individuals can make so they do not get in the way of what is good for society.
+CULTURE2_1,People in our society often disagree about issues of equality and discrimination. How strongly do... - Click to write Column 1 - We have gone too far in pushing for equal rights in this country.
+CULTURE2_2,People in our society often disagree about issues of equality and discrimination. How strongly do... - Click to write Column 1 - Our society would be better off if the distribution of wealth was more equal.
+CULTURE2_3,People in our society often disagree about issues of equality and discrimination. How strongly do... - Click to write Column 1 - We need to dramatically reduce economic inequalities.
+CULTURE2_4,People in our society often disagree about issues of equality and discrimination. How strongly do... - Click to write Column 1 - We need to dramatically reduce inequalities between blacks and whites.
+CULTURE2_5,People in our society often disagree about issues of equality and discrimination. How strongly do... - Click to write Column 1 - We need to dramatically reduce inequalities between men and women.
+CULTURE2_6,People in our society often disagree about issues of equality and discrimination. How strongly do... - Click to write Column 1 - Discrimination against minorities is still a very serious problem in our society.
+CULTURE2_7,"People in our society often disagree about issues of equality and discrimination. How strongly do... - Click to write Column 1 - It seems like blacks, women, homosexuals and other groups donâ€™t want equal rights, they want special rights just for them."
+RUMORS1,"The following are a list of theories about the origins of the Coronavirus that you may or may not have heard discussed in different outlets. Regardless of whether you think they are true or not, please mark all of the theories that you heard about the origins of the Coronavirus as of today [check all that apply]: - Selected Choice"
+RUMORS1_15_TEXT,"The following are a list of theories about the origins of the Coronavirus that you may or may not have heard discussed in different outlets. Regardless of whether you think they are true or not, please mark all of the theories that you heard about the origins of the Coronavirus as of today [check all that apply]: - Other, specify - Text"
+RUMORS2,Which do you personally believe is the most likely origin of the Coronavirus?: - Selected Choice
+RUMORS2_9_TEXT,"Which do you personally believe is the most likely origin of the Coronavirus?: - Other, specify - Text"
+DEMOGRAPHIC1,"What kind of work do you do? That is, what is your occupation? (For example: plumber, typist, farmer, retired, student...)"
+DEMOGRAPHIC2,Is your job considered â€œessentialâ€ according to the rules of your state or what your employer has told you?
+DEMOGRAPHIC3,What year were you born?
+DEMOGRAPHIC4,In which state are you currently residing (may be different than your permanent address)?
+DEMOGRAPHIC5,Please enter your zip or postal code of your permanent address:
+DEMOGRAPHIC6,Were you born in the US?
+DEMOGRAPHIC7,Are you or your partner currently pregnant?
+DEMOGRAPHIC8,"What is your present religion, if any? - Selected Choice"
+DEMOGRAPHIC8_13_TEXT,"What is your present religion, if any? - Something else (SPECIFY) - Text"
+DEMOGRAPHIC9,"How important is religion in your life â€“ very important, somewhat important, not too important, or not at all important?"
+DEMOGRAPHIC10,What gender do you identify as? - Selected Choice
+DEMOGRAPHIC10_4_TEXT,"What gender do you identify as? - Other, specify - Text"
+DEMOGRAPHIC11,What was your annual household income in 2019 in US dollars?
+DEMOGRAPHIC12,Which of the following categories best describes your race/ethnicity?
+DEMOGRAPHIC13,How would you describe your class background as you experienced it growing up?
